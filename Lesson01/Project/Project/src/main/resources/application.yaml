@@ -1,0 +1,16 @@
+#spring.datasource.url=127.0.0.1:23306
+#spring.datasource.username=root
+#spring.datasource.password=password
+
+spring:
+  profiles:
+    active: prod
+#
+#  datasource:
+#    url: 127.0.0.1:23306
+#    username: root
+#    password: password
+#
+#
+#server:
+#  port: 8088
